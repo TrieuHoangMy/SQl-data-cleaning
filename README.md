@@ -4,7 +4,7 @@ This is an educational project on data cleaning and preparation using SQL. The o
 
 ### UPDATE FULLNAME
 > 	`UPDATE club_member_info_cleaned 
-> 	SET full_name = UPPER(full_name)`
+SET full_name = UPPER(full_name)`
 
 ### TRIM FULLNAME
 `UPDATE club_member_info_cleaned 
